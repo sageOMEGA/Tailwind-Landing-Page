@@ -1,0 +1,14 @@
+{
+  "name": "tailwinf",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "main.js",
+  "scripts": {
+    "build-css": "tailwindcss build styles.css -o output.css"
+  },
+  "author": "sageOMEGA",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
